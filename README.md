@@ -4,11 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=courtesilol&label=Profile%20views&color=0e75b6&style=flat" alt="courtesilol" /> </p>
 
 - 🌱 I’m currently learning **SpringBoot**
-
+- 💻 I love to work on **Java, Ruby & Backend Development**
 - 📫 How to reach me **ruiznietojavier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://www.linkedin.com/in/javier-ruiz-nieto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://www.github.com/courtesilol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
